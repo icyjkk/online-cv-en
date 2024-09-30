@@ -31,7 +31,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: https://github.com/kowaalski/fundy-whitePaper/blob/main/Fundy%20-%20A%20Bitcoin%20Wallet%20with%20advanced%20Funds%20Custody%20With%20Miniscript%20and%20Timelocks.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
@@ -58,14 +58,9 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a Computer Engineer graduated from the University of Málaga (UMA) with experience in software development and a strong passion for blockchain technology. I have worked developing automation tools focused on NFTs, concert ticket sales, and limited edition products, mainly for private Discord communities.
 education:
     title: Education
     info:
