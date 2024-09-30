@@ -31,7 +31,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: https://github.com/kowaalski/fundy-whitePaper/blob/main/Fundy%20-%20A%20Bitcoin%20Wallet%20with%20advanced%20Funds%20Custody%20With%20Miniscript%20and%20Timelocks.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
