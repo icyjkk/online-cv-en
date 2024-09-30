@@ -92,43 +92,31 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Freelance
+        time: 2021 - Present
+        company: 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          I have worked as a freelance developer creating automated solutions and bots for private Discord groups, mainly using Python. My projects include:
+            - Monitors to facilitate the purchase of limited-edition items such as sneakers, fashion products, concert tickets, and NFTs, implementing web scraping techniques.
+            - Cryptocurrency price monitoring bots, utilizing external APIs and automating real-time alerts.
+            - Twitter monitor developed using the Twitter API to track mentions of specific accounts, hashtags, or keywords. Real-time notifications integrated into Discord.
+            - Chrome extension developed in JavaScript to automate processes on Amazon.
+      - role: Computer Engineer 
+        time: abr. 2023 - jun. 2023
+        company: Fortris, Málaga
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Development of a Bitcoin wallet with advanced custody options using Miniscript, timelocks, and descriptors.
+            - Implementation of a fund recovery system in case of seed phrase loss, enhancing asset security.
+            - Utilized Node, NestJS, React, and Web3 to build the business logic.
+            - Integrated APIs for real-time data retrieval and transaction processing.
+      - role: Football Player
+        time: 2014 - 2017
+        company: Málaga Club De Fútbol, Málaga
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - 3 years of experience as a football player at Málaga Club de Fútbol.
+            - Developed skills such as teamwork, discipline, and time management.
+            - Ability to work under pressure and adapt to changing situations.
+            - Applied values such as resilience, dedication, and consistent effort throughout my professional career.
 
 certifications:
       title: Certifications
