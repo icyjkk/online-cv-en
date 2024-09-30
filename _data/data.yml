@@ -121,8 +121,8 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: 'Cybersecurity through deception: 
-                 honeypots, honeywebs and hiding/replacing servers under attack'
+        - name: 'Cybersecurity through deception:' 
+                 honeypots, honeywebs and hiding/replacing servers under attack
           start: 2023
           end: 2023
           organization: University of Málaga (UMA)
