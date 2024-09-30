@@ -73,24 +73,24 @@ education:
         university: University of Málaga (UMA)
         time: 2018 - 2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: Bachelor’s Degree in Computer Engineering
+        
+      - degree: University Extension Course in Blockchain Technologies
+        university: University of Málaga (UMA)
+        time: feb. 2023 - jun. 2023
+        details: 
+            - BBlockchain ecosystem
+            - Solidity programming language
+            - Smart Contract auditing
+            - Web3 development
+            - Permissioned blockchains
+            - Blockchain experiences
+            - Final project (Bitcoin wallet with advanced custody options)
+            
+        - degree: Bachelor’s Degree in Computer Engineering
         university: Czech University of Life Sciences Prague (CZU)
         time: feb. 2022 - jun. 2022
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: Exchange student for a semester.
+
 
 experiences:
     title: Experiences
