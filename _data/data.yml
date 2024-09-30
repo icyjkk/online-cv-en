@@ -73,7 +73,6 @@ education:
         university: University of Málaga (UMA)
         time: 2018 - 2024
         details: |
-        
       - degree: University Extension Course in Blockchain Technologies
         university: University of Málaga (UMA)
         time: feb. 2023 - jun. 2023
@@ -84,9 +83,8 @@ education:
             - Web3 development
             - Permissioned blockchains
             - Blockchain experiences
-            - Final project (Bitcoin wallet with advanced custody options)
-            
-        - degree: Bachelor’s Degree in Computer Engineering
+            - Final project (Bitcoin wallet with advanced custody options)    
+      - degree: Bachelor’s Degree in Computer Engineering
         university: Czech University of Life Sciences Prague (CZU)
         time: feb. 2022 - jun. 2022
         details: |
