@@ -54,7 +54,7 @@ sidebar:
         - item: Music
           link:
 
-        - item: Crypto
+        - item: Blockchain
           link:
 
 career-profile:
@@ -69,16 +69,16 @@ education:
     info:
       - degree: Bachelor’s Degree in Computer Engineering
         university: University of Málaga (UMA)
-        time: 2018 - 2024
+        time: 
         details: |    
       - degree: Bachelor’s Degree in Computer Engineering
         university: Czech University of Life Sciences Prague (CZU)
-        time: feb. 2022 - jun. 2022
+        time: 
         details: |
           Exchange student for a semester.
       - degree: University Extension Course in Blockchain Technologies
         university: University of Málaga (UMA)
-        time: feb. 2023 - jun. 2023
+        time: 
         details: |
             - Blockchain ecosystem
             - Solidity programming language
@@ -98,7 +98,7 @@ experiences:
         details: |
           I have worked as a freelance developer creating automated solutions and bots for private Discord groups, mainly using Python. My projects include:
             - Monitors to facilitate the purchase of limited-edition items such as sneakers, fashion products, concert tickets, and NFTs, implementing web scraping techniques.
-            - Cryptocurrency price monitoring bots, utilizing external APIs and automating real-time alerts.
+            - Cryptocurrency price monitoring software, utilizing external APIs and automating real-time alerts.
             - Twitter monitor developed using the Twitter API to track mentions of specific accounts, hashtags, or keywords. Real-time notifications integrated into Discord.
             - Chrome extension developed in JavaScript to automate processes on Amazon.
       - role: Computer Engineer 
