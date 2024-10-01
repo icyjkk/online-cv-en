@@ -183,29 +183,35 @@ publications:
       - title: Advanced fund custody with Timelocks and Miniscript
         link: "https://www.scitel.es/jitel/actas/Actas_Jitel_2023_Barcelona.pdf"
         authors: Juan Carlos Delgado De La Torre, Diego García Muñoz, Álvaro López Sánchez, Miguel Angel Fortes Santiago, Antonio Tovar
-        conference: Jitel 2023
+        conference: Jitel 2023 (169-174)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Javascript (React, NestsJS, Node, Express)
         level: 98%
 
-      - name: Angular
+      - name: Java
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Solidity
         level: 95%
 
-      - name: Ruby on Rails
+      - name: SQL
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Haskell
         level: 60%
+
+      - name: C++
+        level: 60%
+
+      - name: Web Scrapping
+        level: 60%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
