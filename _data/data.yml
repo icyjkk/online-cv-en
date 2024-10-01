@@ -210,7 +210,8 @@ skills:
       - name: C++
         level: 60%
 
-      - name: Web Scrapping       
+      - name: Web Scrapping (Requests, BeautifulSoup, Selenium)
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Blockchain (Bitcoin, Ethereum) 
+
+
