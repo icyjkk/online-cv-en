@@ -40,7 +40,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Basic Professional
+          level: B1 Cambridge
 
     interests:
       title: Interests
@@ -125,8 +125,8 @@ certifications:
           start: 
           end: 
           organization: University of Málaga (UMA)
-          credentialid: PFIRMA-c8db-9e21-0e03-0d48-293d-160f-86f2-0cf8
-          credentialurl: prod-gonce-verifirma.uma.es/verifirma/pages/verification-code.htm
+          credentialid: 
+          credentialurl: 
           credentialname: Uma
           details: |
 
@@ -189,7 +189,7 @@ skills:
     title: Skills
 
     toolset:
-      - name: Python
+      - name: Python (Flask)
         level: 98%
 
       - name: Javascript (React, NestsJS, Node, Express)
@@ -201,7 +201,10 @@ skills:
       - name: Solidity
         level: 95%
 
-      - name: SQL
+      - name: Bases de Datos (SQL, NoSQL)
+        level: 85%
+
+      - name: Almacén de Datos (ETL)
         level: 85%
 
       - name: Haskell
