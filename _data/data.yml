@@ -201,10 +201,10 @@ skills:
       - name: Solidity
         level: 95%
 
-      - name: Bases de Datos (SQL, NoSQL)
+      - name: Database (SQL, NoSQL)
         level: 85%
 
-      - name: Almacén de Datos (ETL)
+      - name: Data Warehouse (ETL)
         level: 85%
 
       - name: Haskell
@@ -216,5 +216,9 @@ skills:
       - name: Web Scrapping (Requests, BeautifulSoup, Selenium)
 
       - name: Blockchain (Bitcoin, Ethereum) 
+
+      - name: Data Structures
+
+      - name: Agile Methodology
 
 
