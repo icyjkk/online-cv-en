@@ -64,6 +64,8 @@ career-profile:
       
       Throughout my career, I have developed a Bitcoin wallet with advanced custody options, combining my blockchain knowledge with Full-Stack development skills.
 
+      Separately, through other experiences outside of these projects, I have acquired and strengthened skills such as teamwork, discipline, and time management. I have also demonstrated my ability to work under pressure and adapt to changing circumstances, applying values like resilience, dedication, and constant effort throughout my professional journey.
+
 education:
     title: Education
     info:
@@ -109,14 +111,14 @@ experiences:
             - Implementation of a fund recovery system in case of seed phrase loss, enhancing asset security.
             - Utilized Node, NestJS, React, and Web3 to build the business logic.
             - Integrated APIs for real-time data retrieval and transaction processing.
-      - role: Football Player
-        time: 2014 - 2017
-        company: Málaga Club De Fútbol, Málaga
-        details: |
-            - 3 years of experience as a football player at Málaga Club de Fútbol.
-            - Developed skills such as teamwork, discipline, and time management.
-            - Ability to work under pressure and adapt to changing situations.
-            - Applied values such as resilience, dedication, and consistent effort throughout my professional career.
+     # - role: Football Player
+     #   time: 2014 - 2017
+     #   company: Málaga Club De Fútbol, Málaga
+     #   details: |
+     #       - 3 years of experience as a football player at Málaga Club de Fútbol.
+     #       - Developed skills such as teamwork, discipline, and time management.
+     #       - Ability to work under pressure and adapt to changing situations.
+     #       - Applied values such as resilience, dedication, and consistent effort throughout my professional career.
 
 certifications:
       title: Certifications
